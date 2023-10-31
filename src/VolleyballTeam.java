@@ -44,7 +44,7 @@ public class VolleyballTeam implements Restable,Trainable{
         for (VolleyballPlayer player : players) {
             player.rest();
         }
-        System.out.println("Целият отбор почива в момента!");
+        System.out.println("Целият отбор почива в момента!Моля не го безпокойте.");
     }
 
     @Override
